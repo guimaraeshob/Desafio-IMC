@@ -33,6 +33,11 @@ body{
   
 }
 
+#infoBtn{
+  font-size: 30px;
+  color:#084d6e;
+  text-align: center;
+}
 
 
 input{
